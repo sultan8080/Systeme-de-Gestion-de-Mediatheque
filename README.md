@@ -40,3 +40,11 @@ Le système offre les fonctionnalités suivantes :
 \- Calculer les amendes pour les retards de retour (optionel).
 \- Générer des reçus et des confirmations pour les transactions.
 
+## 4. Exigences Techniques
+\- Utilisation de PHP-Symfony 7 pour le backend. 
+\- Modélisation des cas d'utilisation, MCD et MLD avec draw.ie et mocodo.net. 
+\- Stockage des données dans MySQL. 
+\- Création de données de test avec Data Fixtures. 
+\- Interface utilisateur conviviale et réactive basée sur HTML, CSS, Framework Bootstrap/Tailwind, et JavaScript.
+\- Wireframes et prototypage avec Figma/Adobe XD
+\- Création du logo et retouche des images avec Adobe Illustrator et Adobe Photoshop.
