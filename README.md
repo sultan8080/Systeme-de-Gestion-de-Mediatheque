@@ -11,9 +11,9 @@ Le système de gestion de médiathèque vise à atteindre les objectifs suivants
 Le système offre les fonctionnalités suivantes : 
 
 ## 3.1 Gestion des Livres
-Ajouter, modifier et supprimer des livres de la collection.
-Rechercher et trouver des livres dans la médiathèque par le nom du livre.
-Suivre les informations sur le stock, y compris la disponibilité et la quantité.
+\- Ajouter, modifier et supprimer des livres de la collection.
+\- Rechercher et trouver des livres dans la médiathèque par le nom du livre.
+\- Suivre les informations sur le stock, y compris la disponibilité et la quantité.
 
 ## 3.2 Gestion des DVDs/CDs
 Ajouter, modifier et supprimer des DVDs/CDs de la collection.
