@@ -11,29 +11,29 @@ Le système de gestion de médiathèque vise à atteindre les objectifs suivants
 Le système offre les fonctionnalités suivantes : 
 
 ## 3.1 Gestion des Livres
-\- Ajouter, modifier et supprimer des livres de la collection.
-\- Rechercher et trouver des livres dans la médiathèque par le nom du livre.
-\- Suivre les informations sur le stock, y compris la disponibilité et la quantité.
+Ajouter, modifier et supprimer des livres de la collection.
+Rechercher et trouver des livres dans la médiathèque par le nom du livre.
+Suivre les informations sur le stock, y compris la disponibilité et la quantité.
 
 ## 3.2 Gestion des DVDs/CDs
-\- Ajouter, modifier et supprimer des DVDs/CDs de la collection.
-\- Rechercher et trouver des DVDs/CDs dans la médiathèque par le titre.
-\- Suivre les informations sur le stock, y compris la disponibilité et la quantité.
+Ajouter, modifier et supprimer des DVDs/CDs de la collection.
+Rechercher et trouver des DVDs/CDs dans la médiathèque par le titre.
+Suivre les informations sur le stock, y compris la disponibilité et la quantité.
 
 ## 3.3 Gestion des Utilisateurs
-\- Inscrire de nouveaux utilisateurs et gérer leurs profils.
-\- Autoriser les utilisateurs à emprunter et à rendre des livres et des DVDs/CDs.
-\- Gérer les rôles et les autorisations des utilisateurs (administrateurs, bibliothécaires, utilisateurs réguliers).
+Inscrire de nouveaux utilisateurs et gérer leurs profils.
+Autoriser les utilisateurs à emprunter et à rendre des livres et des DVDs/CDs.
+Gérer les rôles et les autorisations des utilisateurs (administrateurs, bibliothécaires, utilisateurs réguliers).
 
 ## 3.4 Prêts de Médias (Livres et DVDs/CDs)
-\- Autoriser les utilisateurs à emprunter des livres, DVDs et CDs pour une période définie.
-\- Gérer les retours de livres, DVDs et CDs.
-\- Calculer les éventuelles amendes pour les retards de retour (optionnel)
+Autoriser les utilisateurs à emprunter des livres, DVDs et CDs pour une période définie.
+Gérer les retours de livres, DVDs et CDs.
+Calculer les éventuelles amendes pour les retards de retour (optionnel)
 
 ## 3.5 Gestion des Transactions
-\- Enregistrer les emprunts et les retours de livres, DVDs et CDs.
-\- Calculer les amendes pour les retards de retour (optionnel).
-\- Générer des reçus et des confirmations pour les transactions.
+Enregistrer les emprunts et les retours de livres, DVDs et CDs.
+Calculer les amendes pour les retards de retour (optionnel).
+Générer des reçus et des confirmations pour les transactions.
 
 ## 3.6 Rapports
 \- Générer des rapports sur les livres empruntés et les utilisateurs de la bibliothèque.
