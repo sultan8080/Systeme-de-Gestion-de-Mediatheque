@@ -25,7 +25,12 @@ Le système offre les fonctionnalités suivantes :
 \- Autoriser les utilisateurs à emprunter et à rendre des livres et des DVDs/CDs.
 \- Gérer les rôles et les autorisations des utilisateurs (administrateurs, bibliothécaires, utilisateurs réguliers).
 
-## 4 Prêts de Médias (Livres et DVDs/CDs)
+## 4. Prêts de Médias (Livres et DVDs/CDs)
 \- Autoriser les utilisateurs à emprunter des livres, DVDs et CDs pour une période définie.
 \- Gérer les retours de livres, DVDs et CDs.
 \- Calculer les éventuelles amendes pour les retards de retour (optionnel)
+
+## 4. Gestion des Transactions
+\- Enregistrer les emprunts et les retours de livres, DVDs et CDs.
+\- Calculer les amendes pour les retards de retour (optionnel).
+\- Générer des reçus et des confirmations pour les transactions.
