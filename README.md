@@ -19,3 +19,8 @@ Le système offre les fonctionnalités suivantes :
 \- Ajouter, modifier et supprimer des DVDs/CDs de la collection.
 \- Rechercher et trouver des DVDs/CDs dans la médiathèque par le titre.
 \- Suivre les informations sur le stock, y compris la disponibilité et la quantité.
+
+## 3.2 Gestion des Utilisateurs
+\- Inscrire de nouveaux utilisateurs et gérer leurs profils.
+\- Autoriser les utilisateurs à emprunter et à rendre des livres et des DVDs/CDs.
+\- Gérer les rôles et les autorisations des utilisateurs (administrateurs, bibliothécaires, utilisateurs réguliers).
